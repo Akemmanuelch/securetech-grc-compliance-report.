@@ -31,8 +31,7 @@ Presents a mock Attestation of Compliance (AOC) in line with PCI DSS requirement
 - Risk Assessment and Remediation Planning  
 - ISO/IEC 27001 & PCI DSS Mapping  
 - Policy and Firewall Review  
-- Markdown Documentation & Technical Writing  
-- GitHub Repository Structuring
+- Technical Writing  
 
 ---
 
