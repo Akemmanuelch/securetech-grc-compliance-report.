@@ -20,7 +20,7 @@ Documents the review of internal policies for GDPR alignment and ISO 27001 compl
 ### `04-firewall-configuration-review/`
 Includes analysis of firewall configurations and rule sets for security misconfigurations, access violations, and policy enforcement breakdowns.
 
-### 05-aoc-securetech
+### `05-aoc-securetech/`
 Presents a mock Attestation of Compliance (AOC) in line with PCI DSS requirements, confirming the organization's compliance status based on controls reviewed.
 
 ---
