@@ -1,38 +1,41 @@
-# securetech-iso27001-compliance-gap-report
-A role-play project where I acted as a GRC Analyst at SecureTech to identify, prioritize, and remediate compliance gaps against ISO/IEC 27001 standards. Includes audit analysis, risk prioritization, remediation recommendations, and policy review updates aligned with GDPR and ISO best practices.
-# SecureTech ISO 27001 Compliance Gap Assessment
+# securetech-grc-compliance-report
 
-This repository showcases a Governance, Risk, and Compliance (GRC) role-play project where I served as a GRC Analyst for SecureTech Solutions. The objective was to analyze an internal audit against ISO/IEC 27001 standards, prioritize the identified compliance gaps, and develop actionable remediation plans, followed by a strategic policy update review aligned with GDPR and NIST frameworks.
+A role-play GRC project simulating the responsibilities of a Governance, Risk, and Compliance Analyst at SecureTech. This project demonstrates the identification, assessment, and remediation of security compliance gaps across various domains using industry standards such as ISO/IEC 27001 and PCI DSS.
 
-## 🧾 Project Scope
-
-- Analyze internal audit findings across four domains:
-  - Access Control
-  - Incident Logging
-  - Physical Security
-  - Policy Management
-
-- Prioritize gaps based on risk impact and urgency.
-- Propose remediation actions aligned with ISO/IEC 27001 controls.
-- Review and revise policy sections to ensure GDPR compliance.
-
-## 📁 Structure
-
-- `01-audit-findings/`: Raw Compliance Gap Report
-- `02-prioritized-report/`: Prioritized Compliance Report for Management
-- `03-policy-review/`: Policy Review Memo with updates aligned with GDPR and ISO standards
-
-## 📌 Key Frameworks Referenced
-
-- ISO/IEC 27001:2013 – Annex A Controls
-- GDPR – Articles 5, 6, 33
-- NIST SP 800-53 & 800-63B
-
-## 📈 Outcome
-
-- Actionable recommendations and implementation steps to bring SecureTech into alignment with regulatory requirements.
-- Documentation suitable for leadership presentation or compliance evidence during external audits.
+It includes comprehensive deliverables such as audit findings, risk prioritization, remediation recommendations, firewall rule assessments, and attestations of compliance aligned with GDPR and best practices.
 
 ---
 
+## 📁 Project Structure
 
+### `01-audit-findings/`
+Contains detailed documentation of non-conformities and observations discovered during an internal compliance audit against ISO/IEC 27001 controls.
+
+### `02-prioritized-report/`
+Outlines risk-prioritized gaps based on likelihood and impact scoring, tied to business-critical assets and mapped to relevant ISO/IEC controls.
+
+### `03-policy-review/`
+Documents the review of internal policies for GDPR alignment and ISO 27001 compliance, highlighting areas of policy strength and weakness.
+
+### `04-firewall-configuration-review/`
+Includes analysis of firewall configurations and rule sets for security misconfigurations, access violations, and policy enforcement breakdowns.
+
+### `05-aoc-securetech/`
+Presents a mock Attestation of Compliance (AOC) in line with PCI DSS requirements, confirming the organization's compliance status based on controls reviewed.
+
+---
+
+## 🔧 Skills Demonstrated
+
+- GRC Auditing & Compliance Reporting  
+- Risk Assessment and Remediation Planning  
+- ISO/IEC 27001 & PCI DSS Mapping  
+- Policy and Firewall Review  
+- Markdown Documentation & Technical Writing  
+- GitHub Repository Structuring
+
+---
+
+## 📌 Notes
+
+This project was designed for demonstration and learning purposes, and does not reflect real client data. It is structured to mirror the output expected in a GRC or compliance consulting environment.
